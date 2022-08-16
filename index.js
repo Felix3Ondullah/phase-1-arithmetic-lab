@@ -8,8 +8,8 @@ const multiply =  num1 * num2;
 
 const random = +1;
 
-const num3 = 39;
+const num3 = 29;
 const num4 = 5;
 const mod = num3 % num4;
 
-const max = Math.max(1, 2, 4, 5, 10, 20,12,8);
+const max = Math.max(1, 3, 4, 7, 10, 20,13,6);
